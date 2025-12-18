@@ -10,7 +10,7 @@ Celem projektu jest zaprezentowanie podstawowego workflow DevOps:
 - użycie kluczy SSH
 - praca na branchach
 - konteneryzacja aplikacji (Docker)
-- automatyzacja (GitHub Actions – w kolejnym etapie)
+- automatyzacja (GitHub Actions)
 
 ## Technologie
 - HTML
@@ -22,4 +22,5 @@ Celem projektu jest zaprezentowanie podstawowego workflow DevOps:
 Aby uruchomić aplikację:
 1. Sklonuj repozytorium
 2. Otwórz plik `index.html` w przeglądarce
+
 
